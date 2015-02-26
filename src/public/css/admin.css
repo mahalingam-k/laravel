@@ -1,0 +1,30 @@
+body {
+    margin-top: 10px;
+}
+
+#main.nav {
+    background-color: #eee;
+}
+#main.nav li {
+    float:left;
+    list-style: none;
+}
+#sidebar ul {
+    margin:0;
+    padding: 0;
+}
+#sidebar li {
+    list-style: none;
+    margin: 2px 0;
+}
+#sidebar {
+    width: 20%;
+    float: left;
+    display: block;
+}
+
+#innerContent {
+    width: 80%;
+    float: left;
+    display: block;
+}

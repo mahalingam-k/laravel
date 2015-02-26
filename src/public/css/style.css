@@ -1,0 +1,47 @@
+#header {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-color: grey;
+    padding: 30px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#header a {
+    color: white;
+}
+
+.submenu {
+    margin-top: 10px;
+}
+.submenu ul {
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+#footer {
+    text-align: center;
+}
+#main-menu {
+    margin-bottom: 10px;
+}
+
+ul#menu-alphabet {
+    list-style: none;
+}
+
+ul#menu-alphabet li {
+    float: left;
+}
+
+#check-all {
+    font-weight: bold;
+}
+span.highlight {
+    background-color: #ffff00;
+}
+
+.highlight-body {
+    display: none;
+}
